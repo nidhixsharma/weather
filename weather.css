@@ -1,0 +1,45 @@
+
+body
+{
+background-image:url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+  background-position: center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  overflow:hidden;
+ 
+ }
+
+h2 
+{
+color:brown;
+}
+
+h5
+{
+padding: 5px 10px 5px 10px;
+margin: auto;
+color:red;
+font-weight:bold;
+}
+
+
+img
+{
+	max-height:60%;
+	max-width:60%;
+}
+#city
+{
+	font-family:  Cursive;
+	font-style:italics;
+	font-size:30px;
+	color :red;
+}
+
+#ktemp,#ctemp,#ftemp ,#long,#winds,#hum
+{
+	font-family:  Cursive;
+	font-style:italics;
+	font-size:16px;
+	color :red;
+}
